@@ -1,0 +1,2 @@
+# National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS)
+This is a repo for managing the APIs.io listing for National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS).
