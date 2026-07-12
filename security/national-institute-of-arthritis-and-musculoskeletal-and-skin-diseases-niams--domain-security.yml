@@ -1,0 +1,22 @@
+generated: '2026-07-11'
+method: probed
+source: live DNS/TLS/HTTP probes of apis.yml + OpenAPI hosts
+hosts:
+- host: www.niams.nih.gov
+  https: true
+  tls_version: TLSv1.3
+  cert_expires: Sep 15 15:25:27 2026 GMT
+  hsts: true
+  hsts_max_age: 31536000
+domains:
+- domain: nih.gov
+  dnssec: true
+  caa:
+  - 0 issuewild "amazon.com"
+  - 0 issue "globalsign.com"
+  - 0 issuewild "globalsign.com"
+  - 0 issuewild "identrust.com"
+  - 0 issuewild "letsencrypt.org"
+  - 0 issue "letsencrypt.org"
+  spf: false
+  dmarc: false
