@@ -36,7 +36,7 @@ created: '2024-11-21'
 modified: '2026-04-28'
 specificationVersion: '0.23'
 tags:
-  - Federal-Government
+  - Federal Government
   - Health
   - NIH
   - Research
@@ -45,6 +45,7 @@ tags_raw:
   - Health
   - NIH
   - Research
+  - Federal-Government
 apis:
   - aid: national-institute-of-arthritis-and-musculoskeletal-and-skin-diseases-niams-:niams
     name: National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS)
@@ -53,7 +54,6 @@ apis:
       (NIAMS) supports research into the causes, treatment, and prevention of
       arthritis and musculoskeletal and skin diseases.
     humanURL: https://www.niams.nih.gov/
-    baseURL: https://www.niams.nih.gov/
     tags:
       - Health
       - NIH
