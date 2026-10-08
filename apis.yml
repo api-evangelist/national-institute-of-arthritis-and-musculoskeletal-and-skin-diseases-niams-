@@ -64,6 +64,12 @@ apis:
       - type: HealthInformation
         url: https://www.niams.nih.gov/health-topics
 common:
+  - type: Plans
+    url: plans/national-institute-of-arthritis-and-musculoskeletal-and-skin-diseases-niams--plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/national-institute-of-arthritis-and-musculoskeletal-and-skin-diseases-niams--rate-limits.yml
+  - type: FinOps
+    url: finops/national-institute-of-arthritis-and-musculoskeletal-and-skin-diseases-niams--finops.yml
   - type: DomainSecurity
     url: security/national-institute-of-arthritis-and-musculoskeletal-and-skin-diseases-niams--domain-security.yml
   - type: LinkedIn
