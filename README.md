@@ -1,4 +1,4 @@
-# National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS) (national-institute-of-arthritis-and-musculoskeletal-and-skin-diseases-niams-)
+# National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS)
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,54 +66,99 @@
 
 The National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS) is part of the U.S. National Institutes of Health and supports research into the causes, treatment, and prevention of arthritis and musculoskeletal and skin diseases. NIAMS publishes health information, research resources, and grant data via its website.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/national-institute-of-arthritis-and-musculoskeletal-and-skin-diseases-niams-/refs/heads/main/apis.yml)
+**Areas:** Federal Government · Health · NIH · Research
 
-## Scope
+## National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS) on APIs.io
 
-- **Type:** Index
-- **Position:** Consuming
-- **Access:** 3rd-Party
+Everything profiled for National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS) is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/national-institute-of-arthritis-and-musculoskeletal-and-skin-diseases-niams-/](https://apis.io/providers/national-institute-of-arthritis-and-musculoskeletal-and-skin-diseases-niams-/)** — or go straight to one of the APIs or properties below.
 
-## Tags
+### APIs (1)
 
-- Federal Government
-- Health
-- NIH
-- Research
+- [National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS)](https://apis.io/apis/national-institute-of-arthritis-and-musculoskeletal-and-skin-diseases-niams-/niams/) — The National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS) supports research into the causes, treatment, and prevention of arthritis…
 
-## Timestamps
+### Published properties
 
-- **Created:** 2024-11-21
-- **Modified:** 2026-04-28
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## APIs
+#### Security (1)
 
-### National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS)
+Authentication, trust centre, and vulnerability disclosure.
 
-The National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS) supports research into the causes, treatment, and prevention of arthritis and musculoskeletal and skin diseases.
+- [National Institute Of Arthritis And Musculoskeletal And Skin Diseases Niams  Domain Security](https://apis.io/security/national-institute-of-arthritis-and-musculoskeletal-and-skin-diseases-niams-/national-institute-of-arthritis-and-musculoskeletal-and-skin-diseases-niams--domain-security/)
 
-**Human URL:** [https://www.niams.nih.gov/](https://www.niams.nih.gov/)
+#### Plans and pricing (1)
 
-**Base URL:** `https://www.niams.nih.gov/`
+Published plans, tiers and prices.
 
-#### Tags
+- [National Institute Of Arthritis And Musculoskeletal And Skin Diseases Niams  Plans Pricing](https://apis.io/plans/national-institute-of-arthritis-and-musculoskeletal-and-skin-diseases-niams-/national-institute-of-arthritis-and-musculoskeletal-and-skin-diseases-niams--plans-pricing/)
 
-- Health
-- NIH
-- Research
+#### Rate limits (1)
 
-#### Properties
+Published request limits.
 
-- [Documentation](https://www.niams.nih.gov/)
-- [HealthInformation](https://www.niams.nih.gov/health-topics)
+- [National Institute Of Arthritis And Musculoskeletal And Skin Diseases Niams  Rate Limits](https://apis.io/rate-limits/national-institute-of-arthritis-and-musculoskeletal-and-skin-diseases-niams-/national-institute-of-arthritis-and-musculoskeletal-and-skin-diseases-niams--rate-limits/)
 
-## Common Properties
+#### FinOps (1)
+
+What the API costs to run, by operation.
+
+- [National Institute Of Arthritis And Musculoskeletal And Skin Diseases Niams  Finops](https://apis.io/finops/national-institute-of-arthritis-and-musculoskeletal-and-skin-diseases-niams-/national-institute-of-arthritis-and-musculoskeletal-and-skin-diseases-niams--finops/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.niams.nih.gov/)
-- [ContactUs](https://www.niams.nih.gov/contact)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** Kin Lane
+**Kin Score 8.2** — minimal · rubric 0.24.0 · scored 2026-10-17
 
-**Email:** kin@apievangelist.com
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 7.9 |
+| Developer ergonomics | 9.5 |
+| Access clarity | 7.9 |
+
+**Agent readiness 0.6** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 4.7** — Health
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/national-institute-of-arthritis-and-musculoskeletal-and-skin-diseases-niams-/](https://apis.io/providers/national-institute-of-arthritis-and-musculoskeletal-and-skin-diseases-niams-/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS): the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/national-institute-of-arthritis-and-musculoskeletal-and-skin-diseases-niams-/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
